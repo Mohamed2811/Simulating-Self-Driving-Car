@@ -1,0 +1,22 @@
+### To install the packages type in the console:
+### pip install -r requirements.txt
+
+numpy
+opencv-python
+# tensorflow
+tensorflow-gpu
+
+# Python for Window Extensions
+pywin32
+# For data management
+h5py
+# A high-level neural networks API capable of running on top of TensorFlow
+Keras
+# Tools for data mining and data analysis
+scikit-learn
+# To read information from a gamepad
+inputs
+# for object detection module
+Shapely
+# for YOLO
+Cython
